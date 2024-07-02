@@ -1,0 +1,11 @@
+.article{
+    background-color: rgba(150, 127, 255, 0.553);
+}
+.articlelist{
+    background: scroll;
+    background-color: #80ef86a9;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 2px solid black ;
+}

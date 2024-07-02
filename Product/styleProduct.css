@@ -1,0 +1,19 @@
+.proHead{
+    color:aqua;
+    background-color: #dd9797de;
+    font-size: 26px;
+    padding: 10px ;
+    margin: 10px 20px 10px;
+    border: 2px solid black ;
+
+}
+.SecHead{
+    color: #f08257;
+    font-size: 16px;
+}
+.productCss{
+    border: 2px solid black;
+    background-color: #57f0a1;
+    margin: 10px 8px 10px;
+    padding: 10px;
+}

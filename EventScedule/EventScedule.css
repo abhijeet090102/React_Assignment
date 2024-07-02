@@ -1,0 +1,12 @@
+.eventschedule{
+    /* background-attachment:scroll; */
+    background-color: #7882e1a6;
+    margin: 20px 10px 20px;
+    border: 2px solid rgb(244, 202, 150);
+
+}
+.events{
+    border: 2px solid #d4e23a;
+    margin: 20px 20px 40px;
+    padding: 0.002%;
+}
