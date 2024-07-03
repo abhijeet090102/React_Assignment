@@ -4,7 +4,7 @@ function EventSchedule(props) {
     return (
         <>
             <div className="eventschedule">
-                <h1 class="events">Event Schedule</h1>
+                <h1 className="events">Event Schedule</h1>
                 <p>Title : {tit}</p>
                 <p>Date : {dat}</p>
                 <p>Location : {loc}</p>

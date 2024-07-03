@@ -4,7 +4,7 @@ function ArticleList(props) {
     return (
         <>
             <div className="articlelist">
-                <h1 class="article">Article List</h1>
+                <h1 className="article">Article List</h1>
                 <p>Title : {titl}</p>
                 <p>Content : {conts}</p>
                 <p>Author Name :{auth.name}</p>

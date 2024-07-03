@@ -1,9 +1,10 @@
 .profilecard{
-    background-color: #f2c5c5f3;
+    background-color: #f2b7b7d0;
     border: 2px solid black;
     /* margin-top: 20px;
     margin-bottom: 20px; */
     margin: 20px 10px 20px;
+    border-radius: 16px;
 }
 .hedProfile{
     border: 2px dashed #fff;

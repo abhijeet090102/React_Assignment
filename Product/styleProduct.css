@@ -1,6 +1,6 @@
 .proHead{
     color:aqua;
-    background-color: #dd9797de;
+    background-color: #f3c3c3cd;
     font-size: 26px;
     padding: 10px ;
     margin: 10px 20px 10px;
@@ -13,7 +13,8 @@
 }
 .productCss{
     border: 2px solid black;
-    background-color: #57f0a1;
+    background-color: #57f0a1d3;
     margin: 10px 8px 10px;
     padding: 10px;
+    border-radius: 18px;
 }
